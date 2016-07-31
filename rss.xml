@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pachareli Pizza]]></title>
         <description><![CDATA[Pachareli Pizza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pachareli-pizza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 19:17:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jul 2016 19:19:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pachareli-pizza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7997e777-ed5a-42d3-a7cf-b68d657a2617.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/pachareli-pizza/67b76d2e-98f9-4b57-809d-c7e6134ceb63/index.html</link>
+            <guid isPermaLink="false">67b76d2e-98f9-4b57-809d-c7e6134ceb63</guid>
+            <pubDate>Sun, 31 Jul 2016 19:19:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5efc90-4261-49eb-8713-e049b00262e5.png" alt="" title="">]]></description>
-            <link>undefineda06554f9-d5b1-418c-b479-2aecdcb96b8a/index.html</link>
+            <link>https://thegrid.ai/pachareli-pizza/a06554f9-d5b1-418c-b479-2aecdcb96b8a/index.html</link>
             <guid isPermaLink="false">a06554f9-d5b1-418c-b479-2aecdcb96b8a</guid>
             <pubDate>Sun, 31 Jul 2016 19:17:52 GMT</pubDate>
         </item>
